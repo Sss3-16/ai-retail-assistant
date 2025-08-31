@@ -1,0 +1,1006 @@
+[
+  {
+    "product_id": "p001",
+    "name": "Nivea Moisturizing Lotion",
+    "type": "personal care",
+    "ingredients": ["aloe vera", "vitamin E", "glycerin"],
+    "location": { "tray": "tray1", "row": 1, "col": 1 },
+    "description": "A hydrating lotion enriched with aloe vera and glycerin.",
+    "price": 245
+  },
+  {
+    "product_id": "p002",
+    "name": "Head & Shoulders Shampoo",
+    "type": "personal care",
+    "ingredients": ["zinc pyrithione", "sodium lauryl sulfate", "cocamide MEA"],
+    "location": { "tray": "tray1", "row": 1, "col": 2 },
+    "description": "Anti-dandruff shampoo for healthy scalp.",
+    "price": 180
+  },
+  {
+    "product_id": "p003",
+    "name": "Lakme Sunscreen SPF 50",
+    "type": "personal care",
+    "ingredients": ["zinc oxide", "titanium dioxide", "vitamin C"],
+    "location": { "tray": "tray1", "row": 1, "col": 3 },
+    "description": "High-protection sunscreen with SPF 50.",
+    "price": 350
+  },
+  {
+    "product_id": "p004",
+    "name": "Vaseline Lip Balm",
+    "type": "personal care",
+    "ingredients": ["petroleum jelly", "cocoa butter", "aloe vera"],
+    "location": { "tray": "tray1", "row": 1, "col": 4 },
+    "description": "Moisturizing lip balm with cocoa butter.",
+    "price": 75
+  },
+  {
+    "product_id": "p005",
+    "name": "Colgate Toothpaste",
+    "type": "personal care",
+    "ingredients": ["fluoride", "calcium carbonate", "sodium lauryl sulfate"],
+    "location": { "tray": "tray1", "row": 1, "col": 5 },
+    "description": "Cavity protection toothpaste with fluoride.",
+    "price": 65
+  },
+  {
+    "product_id": "p006",
+    "name": "Pantene Conditioner",
+    "type": "personal care",
+    "ingredients": ["panthenol", "dimethicone", "cetyl alcohol"],
+    "location": { "tray": "tray1", "row": 2, "col": 1 },
+    "description": "Hair conditioner for smooth and silky hair.",
+    "price": 195
+  },
+  {
+    "product_id": "p007",
+    "name": "Dettol Hand Sanitizer",
+    "type": "personal care",
+    "ingredients": ["ethyl alcohol", "glycerin", "carbomer"],
+    "location": { "tray": "tray1", "row": 2, "col": 2 },
+    "description": "Antibacterial hand sanitizer with 70% alcohol.",
+    "price": 85
+  },
+  {
+    "product_id": "p008",
+    "name": "Fair & Lovely Face Cream",
+    "type": "personal care",
+    "ingredients": ["niacinamide", "vitamin B3", "multivitamins"],
+    "location": { "tray": "tray1", "row": 2, "col": 3 },
+    "description": "Fairness cream with vitamins.",
+    "price": 125
+  },
+  {
+    "product_id": "p009",
+    "name": "Gillette Razor",
+    "type": "personal care",
+    "ingredients": ["stainless steel blades", "lubricating strip", "precision trimmer"],
+    "location": { "tray": "tray1", "row": 2, "col": 4 },
+    "description": "3-blade razor with lubricating strip.",
+    "price": 150
+  },
+  {
+    "product_id": "p010",
+    "name": "L'Oreal Shampoo",
+    "type": "personal care",
+    "ingredients": ["sulfate-free formula", "argan oil", "ceramides"],
+    "location": { "tray": "tray1", "row": 2, "col": 5 },
+    "description": "Professional sulfate-free shampoo.",
+    "price": 425
+  },
+  {
+    "product_id": "p011",
+    "name": "Ponds Cold Cream",
+    "type": "personal care",
+    "ingredients": ["mineral oil", "beeswax", "ceresin"],
+    "location": { "tray": "tray1", "row": 3, "col": 1 },
+    "description": "Deep moisturizing cold cream.",
+    "price": 95
+  },
+  {
+    "product_id": "p012",
+    "name": "Himalaya Face Wash",
+    "type": "personal care",
+    "ingredients": ["neem", "turmeric", "aloe vera"],
+    "location": { "tray": "tray1", "row": 3, "col": 2 },
+    "description": "Herbal face wash with neem and turmeric.",
+    "price": 110
+  },
+  {
+    "product_id": "p013",
+    "name": "Garnier Hair Oil",
+    "type": "personal care",
+    "ingredients": ["coconut oil", "curry leaves", "fenugreek"],
+    "location": { "tray": "tray1", "row": 3, "col": 3 },
+    "description": "Natural hair oil for strong hair.",
+    "price": 135
+  },
+  {
+    "product_id": "p014",
+    "name": "Mamaearth Body Wash",
+    "type": "personal care",
+    "ingredients": ["natural ingredients", "coconut oil", "vitamin E"],
+    "location": { "tray": "tray1", "row": 3, "col": 4 },
+    "description": "Natural body wash with coconut oil.",
+    "price": 285
+  },
+  {
+    "product_id": "p015",
+    "name": "Rexona Deodorant",
+    "type": "personal care",
+    "ingredients": ["aluminum chloride", "fragrance", "ethanol"],
+    "location": { "tray": "tray1", "row": 3, "col": 5 },
+    "description": "48-hour protection deodorant.",
+    "price": 165
+  },
+  {
+    "product_id": "p016",
+    "name": "iPhone 15 Pro",
+    "type": "electronics",
+    "specs": {
+      "display": "6.1-inch OLED",
+      "processor": "A17 Pro",
+      "camera": "48MP + 12MP + 12MP",
+      "storage": "128GB",
+      "battery": "3274mAh"
+    },
+    "location": { "tray": "tray2", "row": 1, "col": 1 },
+    "price": 134900
+  },
+  {
+    "product_id": "p017",
+    "name": "Samsung Galaxy S24 Ultra",
+    "type": "electronics",
+    "specs": {
+      "display": "6.8-inch AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "camera": "200MP + 50MP + 12MP + 10MP",
+      "storage": "256GB",
+      "battery": "5000mAh"
+    },
+    "location": { "tray": "tray2", "row": 1, "col": 2 },
+    "price": 129999
+  },
+  {
+    "product_id": "p018",
+    "name": "OnePlus 12",
+    "type": "electronics",
+    "specs": {
+      "display": "6.82-inch AMOLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "camera": "50MP + 64MP + 48MP",
+      "storage": "256GB",
+      "battery": "5400mAh"
+    },
+    "location": { "tray": "tray2", "row": 1, "col": 3 },
+    "price": 64999
+  },
+  {
+    "product_id": "p019",
+    "name": "Xiaomi 14",
+    "type": "electronics",
+    "specs": {
+      "display": "6.36-inch OLED",
+      "processor": "Snapdragon 8 Gen 3",
+      "camera": "50MP + 50MP + 50MP",
+      "storage": "512GB",
+      "battery": "4610mAh"
+    },
+    "location": { "tray": "tray2", "row": 1, "col": 4 },
+    "price": 69999
+  },
+  {
+    "product_id": "p020",
+    "name": "Google Pixel 8 Pro",
+    "type": "electronics",
+    "specs": {
+      "display": "6.7-inch OLED",
+      "processor": "Google Tensor G3",
+      "camera": "50MP + 48MP + 48MP",
+      "storage": "128GB",
+      "battery": "5050mAh"
+    },
+    "location": { "tray": "tray2", "row": 1, "col": 5 },
+    "price": 84999
+  },
+  {
+    "product_id": "p021",
+    "name": "MacBook Air M3",
+    "type": "electronics",
+    "specs": {
+      "display": "13.6-inch Retina",
+      "processor": "Apple M3",
+      "storage": "256GB SSD",
+      "battery": "18 hours",
+      "ram": "8GB"
+    },
+    "location": { "tray": "tray2", "row": 2, "col": 1 },
+    "price": 114900
+  },
+  {
+    "product_id": "p022",
+    "name": "Dell XPS 13",
+    "type": "electronics",
+    "specs": {
+      "display": "13.4-inch FHD+",
+      "processor": "Intel Core i7",
+      "storage": "512GB SSD",
+      "battery": "12 hours",
+      "ram": "16GB"
+    },
+    "location": { "tray": "tray2", "row": 2, "col": 2 },
+    "price": 125990
+  },
+  {
+    "product_id": "p023",
+    "name": "HP Pavilion 15",
+    "type": "electronics",
+    "specs": {
+      "display": "15.6-inch FHD",
+      "processor": "AMD Ryzen 5",
+      "storage": "512GB SSD",
+      "battery": "8 hours",
+      "ram": "8GB"
+    },
+    "location": { "tray": "tray2", "row": 2, "col": 3 },
+    "price": 55990
+  },
+  {
+    "product_id": "p024",
+    "name": "Lenovo ThinkPad E14",
+    "type": "electronics",
+    "specs": {
+      "display": "14-inch FHD",
+      "processor": "Intel Core i5",
+      "storage": "1TB SSD",
+      "battery": "10 hours",
+      "ram": "8GB"
+    },
+    "location": { "tray": "tray2", "row": 2, "col": 4 },
+    "price": 68990
+  },
+  {
+    "product_id": "p025",
+    "name": "ASUS VivoBook 15",
+    "type": "electronics",
+    "specs": {
+      "display": "15.6-inch FHD",
+      "processor": "Intel Core i3",
+      "storage": "256GB SSD",
+      "battery": "6 hours",
+      "ram": "4GB"
+    },
+    "location": { "tray": "tray2", "row": 2, "col": 5 },
+    "price": 38990
+  },
+  {
+    "product_id": "p026",
+    "name": "Sony WH-1000XM5",
+    "type": "electronics",
+    "specs": {
+      "type": "Over-ear headphones",
+      "battery": "30 hours",
+      "noise_cancellation": "Yes",
+      "connectivity": "Bluetooth 5.2"
+    },
+    "location": { "tray": "tray2", "row": 3, "col": 1 },
+    "price": 29990
+  },
+  {
+    "product_id": "p027",
+    "name": "JBL Tune 760NC",
+    "type": "electronics",
+    "specs": {
+      "type": "Over-ear headphones",
+      "battery": "35 hours",
+      "noise_cancellation": "Yes",
+      "connectivity": "Bluetooth 5.0"
+    },
+    "location": { "tray": "tray2", "row": 3, "col": 2 },
+    "price": 6999
+  },
+  {
+    "product_id": "p028",
+    "name": "Samsung Galaxy Buds2 Pro",
+    "type": "electronics",
+    "specs": {
+      "type": "True wireless earbuds",
+      "battery": "8 hours + 20 hours case",
+      "noise_cancellation": "Yes",
+      "connectivity": "Bluetooth 5.3"
+    },
+    "location": { "tray": "tray2", "row": 3, "col": 3 },
+    "price": 15999
+  },
+  {
+    "product_id": "p029",
+    "name": "boAt Rockerz 550",
+    "type": "electronics",
+    "specs": {
+      "type": "Over-ear headphones",
+      "battery": "20 hours",
+      "noise_cancellation": "No",
+      "connectivity": "Bluetooth 5.0"
+    },
+    "location": { "tray": "tray2", "row": 3, "col": 4 },
+    "price": 1799
+  },
+  {
+    "product_id": "p030",
+    "name": "Mi Power Bank 3i",
+    "type": "electronics",
+    "specs": {
+      "capacity": "20000mAh",
+      "ports": "2x USB-A, 1x USB-C",
+      "fast_charging": "Yes",
+      "weight": "420g"
+    },
+    "location": { "tray": "tray2", "row": 3, "col": 5 },
+    "price": 1799
+  },
+  {
+    "product_id": "p031",
+    "name": "Coca-Cola 330ml Can",
+    "type": "beverage",
+    "ingredients": ["carbonated water", "sugar", "caffeine", "phosphoric acid"],
+    "location": { "tray": "tray3", "row": 1, "col": 1 },
+    "description": "Refreshing soft drink in 330ml can.",
+    "price": 40
+  },
+  {
+    "product_id": "p032",
+    "name": "Pepsi 500ml Bottle",
+    "type": "beverage",
+    "ingredients": ["carbonated water", "sugar", "caffeine", "citric acid"],
+    "location": { "tray": "tray3", "row": 1, "col": 2 },
+    "description": "Pepsi 500ml bottle with refreshing taste.",
+    "price": 50
+  },
+  {
+    "product_id": "p033",
+    "name": "Sprite 250ml Can",
+    "type": "beverage",
+    "ingredients": ["carbonated water", "sugar", "citric acid", "natural flavors"],
+    "location": { "tray": "tray3", "row": 1, "col": 3 },
+    "description": "Lemon-lime flavored carbonated drink.",
+    "price": 35
+  },
+  {
+    "product_id": "p034",
+    "name": "Thums Up 600ml Bottle",
+    "type": "beverage",
+    "ingredients": ["carbonated water", "sugar", "caffeine", "caramel color"],
+    "location": { "tray": "tray3", "row": 1, "col": 4 },
+    "description": "Strong cola flavored soft drink.",
+    "price": 55
+  },
+  {
+    "product_id": "p035",
+    "name": "Mountain Dew 250ml Can",
+    "type": "beverage",
+    "ingredients": ["carbonated water", "sugar", "caffeine", "citric acid"],
+    "location": { "tray": "tray3", "row": 1, "col": 5 },
+    "description": "Citrus flavored energy drink.",
+    "price": 35
+  },
+  {
+    "product_id": "p036",
+    "name": "Real Orange Juice 1L",
+    "type": "beverage",
+    "ingredients": ["orange juice", "water", "sugar", "vitamin C"],
+    "location": { "tray": "tray3", "row": 2, "col": 1 },
+    "description": "100% natural orange juice rich in vitamin C.",
+    "price": 85
+  },
+  {
+    "product_id": "p037",
+    "name": "Minute Maid Pulpy Orange 400ml",
+    "type": "beverage",
+    "ingredients": ["orange juice", "water", "sugar", "orange pulp"],
+    "location": { "tray": "tray3", "row": 2, "col": 2 },
+    "description": "Orange juice with real orange pulp.",
+    "price": 45
+  },
+  {
+    "product_id": "p038",
+    "name": "Frooti Mango Drink 200ml",
+    "type": "beverage",
+    "ingredients": ["mango pulp", "water", "sugar", "citric acid"],
+    "location": { "tray": "tray3", "row": 2, "col": 3 },
+    "description": "Fresh mango flavored drink.",
+    "price": 20
+  },
+  {
+    "product_id": "p039",
+    "name": "Maaza Mango Drink 600ml",
+    "type": "beverage",
+    "ingredients": ["mango pulp", "water", "sugar", "vitamin A"],
+    "location": { "tray": "tray3", "row": 2, "col": 4 },
+    "description": "Premium mango drink with vitamin A.",
+    "price": 65
+  },
+  {
+    "product_id": "p040",
+    "name": "Limca 300ml Bottle",
+    "type": "beverage",
+    "ingredients": ["carbonated water", "sugar", "citric acid", "lemon flavor"],
+    "location": { "tray": "tray3", "row": 2, "col": 5 },
+    "description": "Refreshing lemon-lime drink.",
+    "price": 40
+  },
+  {
+    "product_id": "p041",
+    "name": "Kinley Water 1L",
+    "type": "beverage",
+    "ingredients": ["purified water", "minerals"],
+    "location": { "tray": "tray3", "row": 3, "col": 1 },
+    "description": "Pure drinking water with minerals.",
+    "price": 20
+  },
+  {
+    "product_id": "p042",
+    "name": "Bisleri Water 500ml",
+    "type": "beverage",
+    "ingredients": ["purified water", "minerals"],
+    "location": { "tray": "tray3", "row": 3, "col": 2 },
+    "description": "Mineral water for healthy hydration.",
+    "price": 15
+  },
+  {
+    "product_id": "p043",
+    "name": "Red Bull Energy Drink 250ml",
+    "type": "beverage",
+    "ingredients": ["caffeine", "taurine", "B-vitamins", "sugar"],
+    "location": { "tray": "tray3", "row": 3, "col": 3 },
+    "description": "Energy drink with caffeine and taurine.",
+    "price": 125
+  },
+  {
+    "product_id": "p044",
+    "name": "Tropicana Apple Juice 200ml",
+    "type": "beverage",
+    "ingredients": ["apple juice", "vitamin C", "natural flavors"],
+    "location": { "tray": "tray3", "row": 3, "col": 4 },
+    "description": "100% apple juice with vitamin C.",
+    "price": 35
+  },
+  {
+    "product_id": "p045",
+    "name": "Nimbooz Masala Soda 300ml",
+    "type": "beverage",
+    "ingredients": ["carbonated water", "salt", "spices", "citric acid"],
+    "location": { "tray": "tray3", "row": 3, "col": 5 },
+    "description": "Refreshing masala flavored soda.",
+    "price": 30
+  },
+  {
+    "product_id": "p046",
+    "name": "Lays Classic Chips 52g",
+    "type": "snack",
+    "ingredients": ["potatoes", "vegetable oil", "salt"],
+    "location": { "tray": "tray4", "row": 1, "col": 1 },
+    "description": "Crispy salted potato chips.",
+    "price": 20
+  },
+  {
+    "product_id": "p047",
+    "name": "Kurkure Masala Munch 82g",
+    "type": "snack",
+    "ingredients": ["rice", "corn", "spices", "vegetable oil"],
+    "location": { "tray": "tray4", "row": 1, "col": 2 },
+    "description": "Crunchy snack with Indian spices.",
+    "price": 20
+  },
+  {
+    "product_id": "p048",
+    "name": "Haldiram's Bhujia 200g",
+    "type": "snack",
+    "ingredients": ["gram flour", "spices", "vegetable oil", "salt"],
+    "location": { "tray": "tray4", "row": 1, "col": 3 },
+    "description": "Traditional Indian namkeen snack.",
+    "price": 65
+  },
+  {
+    "product_id": "p049",
+    "name": "Balaji Wafers Masala 135g",
+    "type": "snack",
+    "ingredients": ["potatoes", "vegetable oil", "masala seasoning"],
+    "location": { "tray": "tray4", "row": 1, "col": 4 },
+    "description": "Spicy masala flavored potato wafers.",
+    "price": 30
+  },
+  {
+    "product_id": "p050",
+    "name": "Uncle Chips Spicy Treat 30g",
+    "type": "snack",
+    "ingredients": ["potatoes", "vegetable oil", "spices"],
+    "location": { "tray": "tray4", "row": 1, "col": 5 },
+    "description": "Spicy potato chips with Indian flavors.",
+    "price": 10
+  },
+  {
+    "product_id": "p051",
+    "name": "Parle-G Biscuits 200g",
+    "type": "snack",
+    "ingredients": ["wheat flour", "sugar", "vegetable oil", "glucose"],
+    "location": { "tray": "tray4", "row": 2, "col": 1 },
+    "description": "India's favorite glucose biscuits.",
+    "price": 25
+  },
+  {
+    "product_id": "p052",
+    "name": "Oreo Original Cookies 120g",
+    "type": "snack",
+    "ingredients": ["wheat flour", "cocoa", "sugar", "cream filling"],
+    "location": { "tray": "tray4", "row": 2, "col": 2 },
+    "description": "Chocolate sandwich cookies with cream.",
+    "price": 40
+  },
+  {
+    "product_id": "p053",
+    "name": "Good Day Cashew Cookies 216g",
+    "type": "snack",
+    "ingredients": ["wheat flour", "cashew", "butter", "sugar"],
+    "location": { "tray": "tray4", "row": 2, "col": 3 },
+    "description": "Butter cookies with real cashew pieces.",
+    "price": 80
+  },
+  {
+    "product_id": "p054",
+    "name": "Monaco Classic Salted Biscuits 200g",
+    "type": "snack",
+    "ingredients": ["wheat flour", "vegetable oil", "salt", "yeast"],
+    "location": { "tray": "tray4", "row": 2, "col": 4 },
+    "description": "Light and crispy salted biscuits.",
+    "price": 30
+  },
+  {
+    "product_id": "p055",
+    "name": "Hide & Seek Chocolate Chip Cookies 100g",
+    "type": "snack",
+    "ingredients": ["wheat flour", "chocolate chips", "butter", "sugar"],
+    "location": { "tray": "tray4", "row": 2, "col": 5 },
+    "description": "Cookies loaded with chocolate chips.",
+    "price": 35
+  },
+  {
+    "product_id": "p056",
+    "name": "KitKat 4 Finger 37.3g",
+    "type": "snack",
+    "ingredients": ["milk chocolate", "wafer", "sugar", "cocoa"],
+    "location": { "tray": "tray4", "row": 3, "col": 1 },
+    "description": "Crispy wafer fingers covered with milk chocolate.",
+    "price": 40
+  },
+  {
+    "product_id": "p057",
+    "name": "Dairy Milk Silk 60g",
+    "type": "snack",
+    "ingredients": ["milk chocolate", "cocoa butter", "milk solids"],
+    "location": { "tray": "tray4", "row": 3, "col": 2 },
+    "description": "Smooth and creamy milk chocolate.",
+    "price": 85
+  },
+  {
+    "product_id": "p058",
+    "name": "Snickers Peanut Bar 50g",
+    "type": "snack",
+    "ingredients": ["peanuts", "caramel", "milk chocolate", "nougat"],
+    "location": { "tray": "tray4", "row": 3, "col": 3 },
+    "description": "Chocolate bar with peanuts and caramel.",
+    "price": 45
+  },
+  {
+    "product_id": "p059",
+    "name": "5 Star Chocolate 22g",
+    "type": "snack",
+    "ingredients": ["milk chocolate", "peanut", "caramel", "nougat"],
+    "location": { "tray": "tray4", "row": 3, "col": 4 },
+    "description": "Chocolate bar with crunchy peanuts.",
+    "price": 20
+  },
+  {
+    "product_id": "p060",
+    "name": "Pringles Original 107g",
+    "type": "snack",
+    "ingredients": ["dehydrated potatoes", "vegetable oil", "wheat starch", "salt"],
+    "location": { "tray": "tray4", "row": 3, "col": 5 },
+    "description": "Stackable potato crisps with original flavor.",
+    "price": 99
+  },
+  {
+    "product_id": "p061",
+    "name": "Classmate Notebook A4 200 Pages",
+    "type": "stationery",
+    "specs": {
+      "pages": 200,
+      "binding": "spiral",
+      "cover": "hardcover",
+      "size": "A4"
+    },
+    "location": { "tray": "tray5", "row": 1, "col": 1 },
+    "price": 85
+  },
+  {
+    "product_id": "p062",
+    "name": "Reynolds Ball Pen Blue 10 Pack",
+    "type": "stationery",
+    "specs": {
+      "colors": ["blue"],
+      "tip_size": "1.0mm",
+      "quantity": 10
+    },
+    "location": { "tray": "tray5", "row": 1, "col": 2 },
+    "price": 50
+  },
+  {
+    "product_id": "p063",
+    "name": "Camlin Geometry Box",
+    "type": "stationery",
+    "specs": {
+      "contents": ["compass", "divider", "ruler", "protractor", "pencils"],
+      "material": "metal and plastic"
+    },
+    "location": { "tray": "tray5", "row": 1, "col": 3 },
+    "price": 120
+  },
+  {
+    "product_id": "p064",
+    "name": "Apsara Pencils HB 10 Pack",
+    "type": "stationery",
+    "specs": {
+      "grade": "HB",
+      "quantity": 10,
+      "material": "wood"
+    },
+    "location": { "tray": "tray5", "row": 1, "col": 4 },
+    "price": 25
+  },
+  {
+    "product_id": "p065",
+    "name": "Fevicol SH 50ml",
+    "type": "stationery",
+    "specs": {
+      "type": "synthetic resin adhesive",
+      "volume": "50ml",
+      "application": "paper, cardboard"
+    },
+    "location": { "tray": "tray5", "row": 1, "col": 5 },
+    "price": 25
+  },
+  {
+    "product_id": "p066",
+    "name": "Staedtler Eraser White",
+    "type": "stationery",
+    "specs": {
+      "color": "white",
+      "material": "synthetic rubber",
+      "size": "small"
+    },
+    "location": { "tray": "tray5", "row": 2, "col": 1 },
+    "price": 15
+  },
+  {
+    "product_id": "p067",
+    "name": "Natraj Sharpener Plastic",
+    "type": "stationery",
+    "specs": {
+      "material": "plastic",
+      "type": "single hole",
+      "color": "assorted"
+    },
+    "location": { "tray": "tray5", "row": 2, "col": 2 },
+    "price": 5
+  },
+  {
+    "product_id": "p068",
+    "name": "Faber-Castell Scale 30cm",
+    "type": "stationery",
+    "specs": {
+      "length": "30cm",
+      "material": "plastic",
+      "markings": "cm and inches"
+    },
+    "location": { "tray": "tray5", "row": 2, "col": 3 },
+    "price": 35
+  },
+  {
+    "product_id": "p069",
+    "name": "Post-it Sticky Notes 3x3",
+    "type": "stationery",
+    "specs": {
+      "size": "3x3 inch",
+      "pages": 100,
+      "colors": ["yellow", "pink", "blue", "green"]
+    },
+    "location": { "tray": "tray5", "row": 2, "col": 4 },
+    "price": 185
+  },
+  {
+    "product_id": "p070",
+    "name": "Pilot V7 Pen Blue",
+    "type": "stationery",
+    "specs": {
+      "colors": ["blue"],
+      "tip_size": "0.7mm",
+      "type": "liquid ink"
+    },
+    "location": { "tray": "tray5", "row": 2, "col": 5 },
+    "price": 35
+  },
+  {
+    "product_id": "p071",
+    "name": "Maggi 2-Minute Noodles Masala 70g",
+    "type": "food",
+    "ingredients": ["wheat flour", "palm oil", "salt", "masala seasoning"],
+    "location": { "tray": "tray6", "row": 1, "col": 1 },
+    "description": "Instant noodles with masala flavor.",
+    "price": 14
+  },
+  {
+    "product_id": "p072",
+    "name": "Yippee Noodles Magic Masala 60g",
+    "type": "food",
+    "ingredients": ["wheat flour", "palm oil", "spices", "onion powder"],
+    "location": { "tray": "tray6", "row": 1, "col": 2 },
+    "description": "Instant noodles with magic masala.",
+    "price": 12
+  },
+  {
+    "product_id": "p073",
+    "name": "Top Ramen Curry 280g",
+    "type": "food",
+    "ingredients": ["wheat flour", "palm oil", "curry powder", "vegetables"],
+    "location": { "tray": "tray6", "row": 1, "col": 3 },
+    "description": "Instant noodles with curry flavor.",
+    "price": 42
+  },
+  {
+    "product_id": "p074",
+    "name": "Amul Butter 500g",
+    "type": "food",
+    "ingredients": ["milk fat", "salt", "lactic acid"],
+    "location": { "tray": "tray6", "row": 1, "col": 4 },
+    "description": "Fresh salted butter from Amul.",
+    "price": 265
+  },
+  {
+    "product_id": "p075",
+    "name": "Britannia Marie Gold Biscuits 250g",
+    "type": "food",
+    "ingredients": ["wheat flour", "sugar", "vegetable oil", "salt"],
+    "location": { "tray": "tray6", "row": 1, "col": 5 },
+    "description": "Light and crispy tea-time biscuits.",
+    "price": 35
+  },
+  {
+    "product_id": "p076",
+    "name": "Tata Tea Gold 250g",
+    "type": "food",
+    "ingredients": ["black tea", "natural flavors"],
+    "location": { "tray": "tray6", "row": 2, "col": 1 },
+    "description": "Premium black tea blend.",
+    "price": 145
+  },
+  {
+    "product_id": "p077",
+    "name": "Nescafe Classic Coffee 50g",
+    "type": "food",
+    "ingredients": ["coffee beans", "chicory"],
+    "location": { "tray": "tray6", "row": 2, "col": 2 },
+    "description": "Instant coffee with rich aroma.",
+    "price": 145
+  },
+  {
+    "product_id": "p078",
+    "name": "MTR Ready to Eat Rava Idli 300g",
+    "type": "food",
+    "ingredients": ["semolina", "rice flour", "curry leaves", "mustard seeds"],
+    "location": { "tray": "tray6", "row": 2, "col": 3 },
+    "description": "Ready-to-eat South Indian breakfast.",
+    "price": 85
+  },
+  {
+    "product_id": "p079",
+    "name": "Kissan Mixed Fruit Jam 500g",
+    "type": "food",
+    "ingredients": ["mixed fruits", "sugar", "pectin", "citric acid"],
+    "location": { "tray": "tray6", "row": 2, "col": 4 },
+    "description": "Mixed fruit jam with natural fruit pieces.",
+    "price": 145
+  },
+  {
+    "product_id": "p080",
+    "name": "Catch Garam Masala 100g",
+    "type": "food",
+    "ingredients": ["coriander", "cumin", "black pepper", "cardamom", "cinnamon"],
+    "location": { "tray": "tray6", "row": 2, "col": 5 },
+    "description": "Authentic Indian spice blend.",
+    "price": 85
+  },
+  {
+    "product_id": "p081",
+    "name": "Surf Excel Detergent 1kg",
+    "type": "household",
+    "ingredients": ["surfactants", "enzymes", "optical brighteners", "fragrance"],
+    "location": { "tray": "tray7", "row": 1, "col": 1 },
+    "description": "Advanced stain removal detergent powder.",
+    "price": 165
+  },
+  {
+    "product_id": "p082",
+    "name": "Vim Dishwash Liquid 500ml",
+    "type": "household",
+    "ingredients": ["sodium lauryl sulfate", "citric acid", "fragrance"],
+    "location": { "tray": "tray7", "row": 1, "col": 2 },
+    "description": "Concentrated dishwashing liquid.",
+    "price": 95
+  },
+  {
+    "product_id": "p083",
+    "name": "Harpic Toilet Cleaner 500ml",
+    "type": "household",
+    "ingredients": ["hydrochloric acid", "surfactants", "fragrance"],
+    "location": { "tray": "tray7", "row": 1, "col": 3 },
+    "description": "Powerful toilet bowl cleaner.",
+    "price": 105
+  },
+  {
+    "product_id": "p084",
+    "name": "Colin Glass Cleaner 500ml",
+    "type": "household",
+    "ingredients": ["isopropyl alcohol", "ammonia", "surfactants"],
+    "location": { "tray": "tray7", "row": 1, "col": 4 },
+    "description": "Streak-free glass and surface cleaner.",
+    "price": 125
+  },
+  {
+    "product_id": "p085",
+    "name": "Lizol Disinfectant Floor Cleaner 975ml",
+    "type": "household",
+    "ingredients": ["benzalkonium chloride", "pine oil", "surfactants"],
+    "location": { "tray": "tray7", "row": 1, "col": 5 },
+    "description": "Disinfectant floor cleaner kills 99.9% germs.",
+    "price": 145
+  },
+  {
+    "product_id": "p086",
+    "name": "Comfort Fabric Conditioner 860ml",
+    "type": "household",
+    "ingredients": ["quaternary ammonium compounds", "fragrance", "colorants"],
+    "location": { "tray": "tray7", "row": 2, "col": 1 },
+    "description": "Fabric softener for fresh and soft clothes.",
+    "price": 185
+  },
+  {
+    "product_id": "p087",
+    "name": "Ariel Washing Powder 1kg",
+    "type": "household",
+    "ingredients": ["surfactants", "enzymes", "optical brighteners", "perfume"],
+    "location": { "tray": "tray7", "row": 2, "col": 2 },
+    "description": "Superior stain removal washing powder.",
+    "price": 195
+  },
+  {
+    "product_id": "p088",
+    "name": "All Out Mosquito Refill 45ml",
+    "type": "household",
+    "ingredients": ["prallethrin", "fragrance"],
+    "location": { "tray": "tray7", "row": 2, "col": 3 },
+    "description": "Liquid mosquito repellent refill.",
+    "price": 85
+  },
+  {
+    "product_id": "p089",
+    "name": "Mr. Muscle Kitchen Cleaner 500ml",
+    "type": "household",
+    "ingredients": ["sodium hypochlorite", "surfactants", "fragrance"],
+    "location": { "tray": "tray7", "row": 2, "col": 4 },
+    "description": "Powerful kitchen degreaser and cleaner.",
+    "price": 165
+  },
+  {
+    "product_id": "p090",
+    "name": "Scotch-Brite Scrub Pad 3 Pack",
+    "type": "household",
+    "ingredients": ["synthetic fibers", "abrasive particles"],
+    "location": { "tray": "tray7", "row": 2, "col": 5 },
+    "description": "Heavy-duty scrubbing pads for tough stains.",
+    "price": 45
+  },
+  {
+    "product_id": "p091",
+    "name": "Paracetamol 650mg Strip",
+    "type": "healthcare",
+    "ingredients": ["paracetamol", "microcrystalline cellulose", "starch"],
+    "location": { "tray": "tray8", "row": 1, "col": 1 },
+    "description": "Pain relief and fever reducer tablets.",
+    "price": 25
+  },
+  {
+    "product_id": "p092",
+    "name": "Vicks VapoRub 50ml",
+    "type": "healthcare",
+    "ingredients": ["camphor", "eucalyptus oil", "menthol", "petroleum jelly"],
+    "location": { "tray": "tray8", "row": 1, "col": 2 },
+    "description": "Topical ointment for cold and cough relief.",
+    "price": 125
+  },
+  {
+    "product_id": "p093",
+    "name": "ENO Fruit Salt 100g",
+    "type": "healthcare",
+    "ingredients": ["sodium bicarbonate", "citric acid", "sodium carbonate"],
+    "location": { "tray": "tray8", "row": 1, "col": 3 },
+    "description": "Antacid for instant relief from acidity.",
+    "price": 95
+  },
+  {
+    "product_id": "p094",
+    "name": "Band-Aid Adhesive Bandages 10 Pack",
+    "type": "healthcare",
+    "ingredients": ["fabric", "adhesive", "sterile pad"],
+    "location": { "tray": "tray8", "row": 1, "col": 4 },
+    "description": "Sterile adhesive bandages for wound care.",
+    "price": 65
+  },
+  {
+    "product_id": "p095",
+    "name": "Volini Pain Relief Gel 30g",
+    "type": "healthcare",
+    "ingredients": ["diclofenac diethylamine", "methyl salicylate", "menthol"],
+    "location": { "tray": "tray8", "row": 1, "col": 5 },
+    "description": "Topical pain relief gel for muscle pain.",
+    "price": 85
+  },
+  {
+    "product_id": "p096",
+    "name": "Crocin Advance Tablets Strip",
+    "type": "healthcare",
+    "ingredients": ["paracetamol", "caffeine", "microcrystalline cellulose"],
+    "location": { "tray": "tray8", "row": 2, "col": 1 },
+    "description": "Fast acting pain relief tablets.",
+    "price": 35
+  },
+  {
+    "product_id": "p097",
+    "name": "Hansaplast Elastic Bandage",
+    "type": "healthcare",
+    "ingredients": ["cotton", "elastic fibers", "adhesive"],
+    "location": { "tray": "tray8", "row": 2, "col": 2 },
+    "description": "Elastic support bandage for sprains.",
+    "price": 125
+  },
+  {
+    "product_id": "p098",
+    "name": "Dettol",
+    "type": "healthcare",
+    "ingredients": ["chloroxylenol", "pine oil", "castor oil"],
+    "location": { "tray": "tray8", "row": 2, "col": 3 },
+    "description": "Antiseptic liquid for wound cleaning.",
+    "price": 85
+  },
+  {
+    "product_id": "p099",
+    "name": "Thermometer Digital",
+    "type": "healthcare",
+    "specs": {
+      "type": "digital",
+      "measurement_time": "60 seconds",
+      "accuracy": "±0.1°C"
+    },
+    "location": { "tray": "tray8", "row": 2, "col": 4 },
+    "description": "Digital thermometer for accurate temperature reading.",
+    "price": 185
+  },
+  {
+    "product_id": "p100",
+    "name": "Vitamin C Tablets Limcee 30 Pack",
+    "type": "healthcare",
+    "ingredients": ["ascorbic acid", "sodium ascorbate", "orange flavor"],
+    "location": { "tray": "tray8", "row": 2, "col": 5 },
+    "description": "Vitamin C supplement for immunity boost.",
+    "price": 145
+  }
+]
