@@ -18,5 +18,6 @@ langchain-google-genai
 faiss-cpu
 python-dotenv
 pydantic
+jq
 
 
