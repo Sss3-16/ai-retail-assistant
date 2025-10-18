@@ -6,6 +6,7 @@ from langchain_core.output_parsers import StrOutputParser,PydanticOutputParser
 from langchain_core.messages import SystemMessage,HumanMessage,AIMessage
 from langchain.retrievers.multi_query import MultiQueryRetriever
 from langchain_community.vectorstores import FAISS
+from langchain_huggingface import HuggingFaceEndpointEmbeddings
 from pydantic import BaseModel,Field
 import streamlit as st
 from typing import Literal
@@ -491,9 +492,15 @@ def initialize_components():
     
     docs = loader.load()
     
-    embeddings = GoogleGenerativeAIEmbeddings(
-        model="models/embedding-001"
+    # embeddings = GoogleGenerativeAIEmbeddings(
+    #     model="models/embedding-001"
+    # )
+
+    embeddings = HuggingFaceEndpointEmbeddings(
+        repo_id="google/embeddinggemma-300m",
+        task="feature-extraction"
     )
+    
     model = ChatGoogleGenerativeAI(model="gemini-2.5-flash-lite")
     
     vector_store = FAISS.from_documents(
