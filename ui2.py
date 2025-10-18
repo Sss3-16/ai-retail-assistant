@@ -497,7 +497,7 @@ def initialize_components():
     # )
 
     embeddings = HuggingFaceEndpointEmbeddings(
-        repo_id="google/embeddinggemma-300m",
+        repo_id="BAAI/bge-large-en-v1.5",
         task="feature-extraction"
     )
     
