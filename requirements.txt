@@ -1,6 +1,6 @@
 # LangChain Core
-langchain
-langchain-core
+langchain==0.1.17
+langchain-core==0.1.42
 langchain-community
 
 # Google Gemini (PaLM) Integration
@@ -17,7 +17,7 @@ streamlit
 langchain-google-genai
 faiss-cpu
 python-dotenv
-pydantic
+pydantic==1.10.14
 jq
 
 
